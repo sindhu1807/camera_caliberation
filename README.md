@@ -31,7 +31,7 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
 
    ```bash
    pip install -r requirements.txt
-   ````
+   ```
 
 4. Run the script:
 
@@ -39,7 +39,7 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
    python camera_calibration.py
    ```
 
-#🗂 Output
+🗂 Output
 
 * `camera_calibration.npz` — Numpy archive containing:
 
