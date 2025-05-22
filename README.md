@@ -37,7 +37,8 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
    ```bash
    python camera_calibration.py
    ```
-🗂 Output
+
+#🗂 Output
 
 * `camera_calibration.npz` — Numpy archive containing:
 
