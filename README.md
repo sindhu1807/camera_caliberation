@@ -24,14 +24,13 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
 1. Clone the repository or download the script.
 2. Place your checkerboard image in a known location and update the `image_path` variable in the script:
    ```python
-   image_path = r"D:\Path\To\Your\Image.jpg"
-```
+   image_path = r"D:\Path\To\Your\Image.jpg" ```
 
 3. Install the required packages:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 4. Run the script:
 
