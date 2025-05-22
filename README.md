@@ -28,8 +28,7 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
 ```
 
 3. Install the required packages:
-
-   ```bash
+  ```bash
    pip install -r requirements.txt
  ```
 
