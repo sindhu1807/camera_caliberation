@@ -48,6 +48,9 @@ pip install -r requirements.txt
   * Rotation and translation vectors
 * `undistorted_image.jpg` — Corrected image without lens distortion.
 
+## Screenshot
+![Screenshot (122)](https://github.com/user-attachments/assets/d922b2d3-a28c-4fec-b4ae-3c969d6cd170)
+
 📌 Notes
 
 * If the checkerboard corners are not detected, verify the pattern, lighting, and image quality.
