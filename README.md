@@ -52,9 +52,4 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
 * If the checkerboard corners are not detected, verify the pattern, lighting, and image quality.
 * You can use multiple images to improve calibration accuracy by looping through a directory.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-````
 
