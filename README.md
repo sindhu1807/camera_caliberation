@@ -26,12 +26,13 @@ Ensure your checkerboard pattern has **8 inner corners per row and 6 per column*
    ```python
    image_path = r"D:\Path\To\Your\Image.jpg"
 ```
-
+```markdown
 3. Install the required packages:
 
    ```bash
    pip install -r requirements.txt
    ```
+
 4. Run the script:
 
    ```bash
